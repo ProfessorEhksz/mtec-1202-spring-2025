@@ -1,0 +1,30 @@
+touch jaylin.txt
+nano jaylin.txt
+@ayojay222 ➜ /workspaces/codespaces-blank $ cd / 
+@ayojay222 ➜ / $ cd ~
+@ayojay222 ➜ ~ $ mkdir lab-1
+@ayojay222 ➜ ~ $ cd lab-1
+@ayojay222 ➜ ~/lab-1 $ touch file-1.txt
+@ayojay222 ➜ ~/lab-1 $ touch .file-2.txt
+@ayojay222 ➜ ~/lab-1 $ ls -a
+.  ..  .file-2.txt  file-1.txt
+@ayojay222 ➜ ~/lab-1 $ ls
+file-1.txt
+@ayojay222 ➜ ~/lab-1 $ mkdir -p pizza/pepperoni/chicken
+@ayojay222 ➜ ~/lab-1 $ cd pizza/pepperoni/chicken
+@ayojay222 ➜ ~/lab-1/pizza/pepperoni/chicken $ pwd
+/home/codespace/lab-1/pizza/pepperoni/chicken
+@ayojay222 ➜ ~/lab-1/pizza/pepperoni/chicken $ cd / 
+@ayojay222 ➜ / $ history
+    2  cd / 
+
+    5  cd lab-1
+    6  touch file-1.txt
+    7  touch .file-2.txt
+    8  ls -a
+    9  ls
+   10  mkdir -p pizza/pepperoni/chicken
+   11  cd pizza/pepperoni/chicken
+   12  pwd
+   13  cd / 
+   14  history
