@@ -41,3 +41,25 @@
    41  print
    42  cd ../../../../../..
    43  history
+   44  cd pizza
+   45  ls
+   46  cd home
+   47  cd codespace
+   48  ls
+   49  cd lab-1
+   50  ls
+   51  rm -r pizza
+   52  mdkir -p pizza/pepperoni/bacon
+   53  mmkdir -p pizza/pepperoni/bacon
+   54  mkdir -p pizza/pepperoni/bacon 
+   55  ls
+   56  cd pizza
+   57  ls
+   58  cd pepperoni
+   59  ls
+   60  cd bacon
+   61  ../../../../..
+   62  cd ../../../../..
+   63  cd..
+   64  cd .. 
+   65  history
