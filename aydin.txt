@@ -1,0 +1,35 @@
+@AD903178 ➜ /workspaces/codespaces-blank $ cd /
+@AD903178 ➜ / $ cd ~
+@AD903178 ➜ ~ $ mkdir lab-1
+@AD903178 ➜ ~ $ cd lab-1
+@AD903178 ➜ ~/lab-1 $ touch file-1.txt
+@AD903178 ➜ ~/lab-1 $ touch .file-2.txt
+@AD903178 ➜ ~/lab-1 $ ls -a
+.  ..  .file-2.txt  file-1.txt
+@AD903178 ➜ ~/lab-1 $ ls
+file-1.txt
+@AD903178 ➜ ~/lab-1 $ mkdir -p pizza/dough/sauce/topping && touch pizza/dough/crust.txt pizza/sauce/tomato.txt pizza/toppings/pepperoni.txt pizza/toppings/mushroom.txt
+touch: cannot touch 'pizza/sauce/tomato.txt': No such file or directory
+touch: cannot touch 'pizza/toppings/pepperoni.txt': No such file or directory
+touch: cannot touch 'pizza/toppings/mushroom.txt': No such file or directory
+@AD903178 ➜ ~/lab-1 $ mkdir -p pizza/pepperoni/mushrooms
+@AD903178 ➜ ~/lab-1 $ cd pizza/pepperoni/mushrooms
+@AD903178 ➜ ~/lab-1/pizza/pepperoni/mushrooms $ pwd
+/home/codespace/lab-1/pizza/pepperoni/mushrooms
+@AD903178 ➜ ~/lab-1/pizza/pepperoni/mushrooms $ cd /
+@AD903178 ➜ / $ history
+    1  clear
+    2  cd /
+    3  cd ~
+    4  mkdir lab-1
+    5  cd lab-1
+    6  touch file-1.txt
+    7  touch .file-2.txt
+    8  ls -a
+    9  ls
+   10  mkdir -p pizza/dough/sauce/topping && touch pizza/dough/crust.txt pizza/sauce/tomato.txt pizza/toppings/pepperoni.txt pizza/toppings/mushroom.txt
+   11  mkdir -p pizza/pepperoni/mushrooms
+   12  cd pizza/pepperoni/mushrooms
+   13  pwd
+   14  cd /
+   15  history
