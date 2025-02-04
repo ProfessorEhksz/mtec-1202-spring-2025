@@ -38,3 +38,6 @@
    38  ls
    39  cd bacon
    40  history
+   41  print
+   42  cd ../../../../../..
+   43  history
