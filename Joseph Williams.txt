@@ -1,0 +1,62 @@
+@jnw5113 ➜ /workspaces/codespaces-blank $ ..
+bash: ..: command not found
+@jnw5113 ➜ /workspaces/codespaces-blank $ . .
+bash: .: .: is a directory
+@jnw5113 ➜ /workspaces/codespaces-blank $ cd ..
+@jnw5113 ➜ /workspaces $ cd ..
+@jnw5113 ➜ / $  cd .. 
+@jnw5113 ➜ / $ home
+bash: home: command not found
+@jnw5113 ➜ / $ cd home
+@jnw5113 ➜ /home $ ls
+codespace  vscode
+@jnw5113 ➜ /home $ cd codespace
+@jnw5113 ➜ ~ $ cd ..
+@jnw5113 ➜ /home $ mkdir lab-1
+mkdir: cannot create directory ‘lab-1’: Permission denied
+@jnw5113 ➜ /home $ mkdir lab-1
+mkdir: cannot create directory ‘lab-1’: Permission denied
+@jnw5113 ➜ /home $ cd codespace
+@jnw5113 ➜ ~ $ mkdir codespace
+@jnw5113 ➜ ~ $ mkdir lab-1
+@jnw5113 ➜ ~ $ mkdir file-1.txt .file-2.txt
+@jnw5113 ➜ ~ $ cd ls -a
+bash: cd: too many arguments
+@jnw5113 ➜ ~ $ ls -a
+.   .bash_logout  .cache  .config  .dotnet      .hugo     .local  .minikube  .oh-my-zsh  .profile  .rbenv  .rvmrc          .zprofile  codespace   java   nvm
+..  .bashrc       .conda  .docker  .file-2.txt  .jupyter  .maven  .nvs       .php        .python   .ruby   .vscode-remote  .zshrc     file-1.txt  lab-1
+@jnw5113 ➜ ~ $ ls
+codespace  file-1.txt  java  lab-1  nvm
+@jnw5113 ➜ ~ $ pizza/cheese/groundbeef/chicken
+bash: pizza/cheese/groundbeef/chicken: No such file or directory
+@jnw5113 ➜ ~ $ mkdir pizza/cheese/groundbeef/chicken
+mkdir: cannot create directory ‘pizza/cheese/groundbeef/chicken’: No such file or directory
+@jnw5113 ➜ ~ $ mkdir -pizza/cheese/groundbeef/chicken
+mkdir: invalid option -- 'i'
+Try 'mkdir --help' for more information.
+@jnw5113 ➜ ~ $ mkdir -p pizza/cheese/groundbeef/ chicken
+@jnw5113 ➜ ~ $ cd ../../../../../..
+@jnw5113 ➜ / $ history
+    1  ..
+    2  . .
+    3  cd ..
+    4  home
+    5  cd home
+    6  ls
+    7  cd codespace
+    8  cd ..
+    9  mkdir lab-1
+   10  cd codespace
+   11  mkdir codespace
+   12  mkdir lab-1
+   13  mkdir file-1.txt .file-2.txt
+   14  cd ls -a
+   15  ls -a
+   16  ls
+   17  pizza/cheese/groundbeef/chicken
+   18  mkdir pizza/cheese/groundbeef/chicken
+   19  mkdir -pizza/cheese/groundbeef/chicken
+   20  mkdir -p pizza/cheese/groundbeef/ chicken
+   21  cd ../../../../../..
+   22  history
+@jnw5113 ➜ / $ 
