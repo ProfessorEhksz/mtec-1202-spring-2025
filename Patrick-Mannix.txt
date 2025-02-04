@@ -1,0 +1,48 @@
+@PatrickMannix ➜ / $ cd /
+@PatrickMannix ➜ / $ cd ~
+@PatrickMannix ➜ ~ $ mkdir lab-1
+@PatrickMannix ➜ ~ $ cd lab-1
+@PatrickMannix ➜ ~/lab-1 $ touch file-1.txt
+@PatrickMannix ➜ ~/lab-1 $ touch file-2.txt
+@PatrickMannix ➜ ~/lab-1 $ ls -a
+.  ..  file-1.txt  file-2.txt
+@PatrickMannix ➜ ~/lab-1 $ ls
+file-1.txt  file-2.txt
+@PatrickMannix ➜ ~/lab-1 $ mkdir -p pizza/cheese/tomato/pepperoni
+@PatrickMannix ➜ ~/lab-1 $ cd pizza/cheese/tomato/pepperoni
+@PatrickMannix ➜ ~/.../pizza/cheese/tomato/pepperoni $ pwd
+/home/codespace/lab-1/pizza/cheese/tomato/pepperoni
+@PatrickMannix ➜ ~/.../pizza/cheese/tomato/pepperoni $ cd /
+@PatrickMannix ➜ / $ history
+    1  touch
+    2  touch config.log
+    3  touch .txt
+    4  ls
+    5  touch index.txt
+    6  clear
+    7  cd projects
+    8  cd home/
+    9  cd ..
+   10  cd home/
+   11  mkdir new_folder
+   12  cd /home/your-username && mkdir my_combined_folder
+   13  cd /home/PatrickMannix && mkdir my_combined_folder
+   14  cd path/to/your/directory
+   15  mkdir PM-Lab-1
+   16  cd ..
+   17  mkdir PM-Lab-1
+   18  clear
+   19  cd /
+   20  cd ~
+   21  mkdir lab-1
+   22  cd lab-1
+   23  touch file-1.txt
+   24  touch file-2.txt
+   25  ls -a
+   26  ls
+   27  mkdir -p pizza/cheese/tomato/pepperoni
+   28  cd pizza/cheese/tomato/pepperoni
+   29  pwd
+   30  cd /
+   31  history
+@PatrickMannix ➜ / $ 
