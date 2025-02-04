@@ -1,0 +1,88 @@
+@Joabljr ➜ /workspaces/codespaces-blank $ cd directory
+bash: cd: directory: No such file or directory
+@Joabljr ➜ /workspaces/codespaces-blank $ directory
+bash: directory: command not found
+@Joabljr ➜ /workspaces/codespaces-blank $ cd
+@Joabljr ➜ ~ $ ls
+java  nvm
+@Joabljr ➜ ~ $ cd
+@Joabljr ➜ ~ $ cd ..
+@Joabljr ➜ /home $ ls
+codespace  vscode
+@Joabljr ➜ /home $ cd ..
+@Joabljr ➜ / $ cd ..
+@Joabljr ➜ / $ ls
+bin   dev  go    lib    lib64   media  opt   root  sbin  sys  usr  vscode
+boot  etc  home  lib32  libx32  mnt    proc  run   srv   tmp  var  workspaces
+@Joabljr ➜ / $ cd home
+@Joabljr ➜ /home $ mkdir lab-1
+mkdir: cannot create directory ‘lab-1’: Permission denied
+@Joabljr ➜ /home $ cd codespace
+@Joabljr ➜ ~ $ pwd
+pwdddd/home/codespace
+@Joabljr ➜ ~ $ pwd
+/home/codespace
+@Joabljr ➜ ~ $ mkdir lab-1
+@Joabljr ➜ ~ $ cd lab-1
+@Joabljr ➜ ~/lab-1 $ touch file-1
+@Joabljr ➜ ~/lab-1 $ touch file-1.txt
+@Joabljr ➜ ~/lab-1 $ touch file-2.txt
+@Joabljr ➜ ~/lab-1 $ ls 
+file-1  file-1.txt  file-2.txt
+@Joabljr ➜ ~/lab-1 $ ls -a
+.  ..  file-1  file-1.txt  file-2.txt
+@Joabljr ➜ ~/lab-1 $ ls -l
+total 0
+-rw-r--r-- 1 codespace codespace 0 Feb  4 21:57 file-1
+-rw-r--r-- 1 codespace codespace 0 Feb  4 21:57 file-1.txt
+-rw-r--r-- 1 codespace codespace 0 Feb  4 21:57 file-2.txt
+@Joabljr ➜ ~/lab-1 $ ls
+file-1  file-1.txt  file-2.txt
+@Joabljr ➜ ~/lab-1 $ mkdir pepperoni chicken sausage
+@Joabljr ➜ ~/lab-1 $ ls
+chicken  file-1  file-1.txt  file-2.txt  pepperoni  sausage
+@Joabljr ➜ ~/lab-1 $ cd sausage
+@Joabljr ➜ ~/lab-1/sausage $ pwd directory
+/home/codespace/lab-1/sausage
+@Joabljr ➜ ~/lab-1/sausage $ cd/
+bash: cd/: No such file or directory
+@Joabljr ➜ ~/lab-1/sausage $ cd directory
+bash: cd: directory: No such file or directory
+@Joabljr ➜ ~/lab-1/sausage $ cd home
+bash: cd: home: No such file or directory
+@Joabljr ➜ ~/lab-1/sausage $ cd ..
+@Joabljr ➜ ~/lab-1 $ cd ..
+@Joabljr ➜ ~ $ cd ..
+@Joabljr ➜ /home $ history
+    1  cd directory
+    2  directory
+    3  cd
+    4  ls
+    5  cd
+    6  cd ..
+    7  ls
+    8  cd ..
+    9  ls
+   10  cd home
+   11  mkdir lab-1
+   12  cd codespace
+   13  pwd
+   14  mkdir lab-1
+   15  cd lab-1
+   16  touch file-1
+   17  touch file-1.txt
+   18  touch file-2.txt
+   19  ls 
+   20  ls -a
+   21  ls -l
+   22  ls
+   23  mkdir pepperoni chicken sausage
+   24  ls
+   25  cd sausage
+   26  pwd directory
+   27  cd/
+   28  cd directory
+   29  cd home
+   30  cd ..
+   31  history
+@Joabljr ➜ /home $ 
