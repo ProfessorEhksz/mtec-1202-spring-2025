@@ -1,0 +1,40 @@
+    1  cd ..
+    2  ls
+    3  cd home
+    4  ls
+    5  cd codespace
+    6  mkdir lab-1
+    7  ls
+    8  cd lab-1
+    9  touch file-1.txt
+   10  touch .file-2.txt
+   11  ls -l
+   12  ls -a
+   13  ls
+   14  ls -a
+   15  ls
+   16  ls -p
+   17  mkdir pepperoni bacon -p pizza 
+   18  ls
+   19  rm pepperoni
+   20  rm -r pepperoni
+   21  ls
+   22  rm -r bacon
+   23  rm -r pizza
+   24  ls
+   25  mkdir -p pizza pepperoni bacon
+   26  ls
+   27  rm -r pizza pepperoni bacon
+   28  l
+   29  ls
+   30  mkdir pizza
+   31  ls
+   32  cd pizza
+   33  mkdir pepperoni bacon 
+   34  cd 
+   35  ls
+   36  cd lab-1
+   37  cd pizza
+   38  ls
+   39  cd bacon
+   40  history
