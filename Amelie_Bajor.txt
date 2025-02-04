@@ -1,0 +1,30 @@
+@AmelieBajor ➜ /workspaces/codespaces-blank $ mkdir -p pizza/sauce/extraCheese
+@AmelieBajor ➜ /workspaces/codespaces-blank $ ls -lat
+total 20
+drwxrwxrwx+ 5 codespace root      4096 Feb  4 21:53 .
+drwxrwxrwx+ 3 codespace codespace 4096 Feb  4 21:53 pizza
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:49 file-1.txt
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:43 AmelieBajor.txt
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:37 lab-1
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:35 .file-2.txt
+drwxrwxrwx+ 3 codespace codespace 4096 Feb  4 21:27 apple
+drwxrwxrwx+ 2 codespace codespace 4096 Feb  4 21:25 class-folder
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:23 config.log
+drwxr-xrwx+ 5 codespace root      4096 Feb  4 20:21 ..
+@AmelieBajor ➜ /workspaces/codespaces-blank $ 
+@AmelieBajor ➜ /workspaces/codespaces-blank $ 
+@AmelieBajor ➜ /workspaces/codespaces-blank $ touch file-1.txt
+@AmelieBajor ➜ /workspaces/codespaces-blank $ touch .file-2.txt
+@AmelieBajor ➜ /workspaces/codespaces-blank $ ls -laat
+total 24
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:58 .file-2.txt
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:58 file-1.txt
+-rw-rw-rw-  1 codespace codespace  803 Feb  4 21:55 lab-1
+drwxrwxrwx+ 5 codespace root      4096 Feb  4 21:53 .
+drwxrwxrwx+ 3 codespace codespace 4096 Feb  4 21:53 pizza
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:43 AmelieBajor.txt
+drwxrwxrwx+ 3 codespace codespace 4096 Feb  4 21:27 apple
+drwxrwxrwx+ 2 codespace codespace 4096 Feb  4 21:25 class-folder
+-rw-rw-rw-  1 codespace codespace    0 Feb  4 21:23 config.log
+drwxr-xrwx+ 5 codespace root      4096 Feb  4 20:21 ..
+@AmelieBajor ➜ /workspaces/codespaces-blank $ 
