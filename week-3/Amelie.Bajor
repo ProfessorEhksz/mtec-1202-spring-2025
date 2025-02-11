@@ -1,0 +1,31 @@
+    1  ls -AmelieBajor.txt
+    2  ls
+    3  ls -lta
+    4  ls -h
+    5  pwd
+    6  pizza/
+    7  /pizza
+    8  /file-1.txt
+    9  /class-folder
+   10  /lab-1
+   11  /pear
+   12  /class-folder
+   13  ..
+   14  cd
+   15  /class-folder
+   16  ..
+   17  ls -lat
+   18  ../mockenvironment
+   19  ../class-folder
+   20  cd
+   21  pwd
+   22  touch file-1.txt
+   23  ..
+   24  touch file-1.txt
+   25  touch file-2.txt
+   26  ..
+   27  ls -l
+   28  .. /usr/local/sdkman/candidates/java
+   29  pwd
+   30  mkdir -p AmelieBajor/Assignment/Folder
+   31  history
