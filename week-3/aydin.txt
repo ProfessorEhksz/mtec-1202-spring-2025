@@ -1,0 +1,67 @@
+@AD903178 ➜ ~/mockenvironment $ pwd
+/home/codespace/mockenvironment
+@AD903178 ➜ ~/mockenvironment $ ls
+clients  contracts  editedphotos  exports  invoices  projects  rawphotos
+@AD903178 ➜ ~/mockenvironment $ ls ~/mockenvironment/photography/projects
+ls: cannot access '/home/codespace/mockenvironment/photography/projects': No such file or directory
+@AD903178 ➜ ~/mockenvironment $ ls ~/mockenvironment/projects
+project_1  project_2  project_3  project_4  project_5
+@AD903178 ➜ ~/mockenvironment $ ls
+clients  contracts  editedphotos  exports  invoices  projects  rawphotos
+@AD903178 ➜ ~/mockenvironment $ ls -l ~/mockenvironment/projects
+total 20
+drwxr-sr-x 2 codespace codespace 4096 Feb 11 19:49 project_1
+drwxr-sr-x 2 codespace codespace 4096 Feb 11 19:49 project_2
+drwxr-sr-x 2 codespace codespace 4096 Feb 11 19:49 project_3
+drwxr-sr-x 2 codespace codespace 4096 Feb 11 19:49 project_4
+drwxr-sr-x 2 codespace codespace 4096 Feb 11 19:49 project_5
+@AD903178 ➜ ~/mockenvironment $ ls -a ~/mockenvironment/projects
+.  ..  project_1  project_2  project_3  project_4  project_5
+@AD903178 ➜ ~/mockenvironment $ pwd
+/home/codespace/mockenvironment
+@AD903178 ➜ ~/mockenvironment $ cd ~/mockenvironment/projects/project_1
+@AD903178 ➜ ~/mockenvironment/projects/project_1 $ cd ..
+@AD903178 ➜ ~/mockenvironment/projects $ cd ~/mockenvironment/rawphotos
+@AD903178 ➜ ~/mockenvironment/rawphotos $ cd ..
+@AD903178 ➜ ~/mockenvironment $ cd ~/mockenvironment/rawphotos/scene_1
+bash: cd: /home/codespace/mockenvironment/rawphotos/scene_1: No such file or directory
+@AD903178 ➜ ~/mockenvironment $ cd ~/mockenvironment/rawfootage/scene_1
+bash: cd: /home/codespace/mockenvironment/rawfootage/scene_1: No such file or directory
+@AD903178 ➜ ~/mockenvironment $ cd ~/mockenvironment/rawphotoss/
+bash: cd: /home/codespace/mockenvironment/rawphotoss/: No such file or directory
+@AD903178 ➜ ~/mockenvironment $ cd ~/mockenvironment/rawphotos/
+@AD903178 ➜ ~/mockenvironment/rawphotos $ pwd
+/home/codespace/mockenvironment/rawphotos
+@AD903178 ➜ ~/mockenvironment/rawphotos $ mkdir ~/mockenvironment/random_folder
+@AD903178 ➜ ~/mockenvironment/rawphotos $ history
+    1  clear
+    2  nano random_file_structure.sh
+    3  chmod random_file_structure.sh
+    4  chmod +x random_file_structure.sh
+    5  ./random_file_structure.sh
+    6  ls
+    7  cd /home/codespace/mockenvironment
+    8  ls
+    9  pwd
+   10  tree
+   11  ls
+   12  clear
+   13  pwd
+   14  ls
+   15  ls ~/mockenvironment/photography/projects
+   16  ls ~/mockenvironment/projects
+   17  ls
+   18  ls -l ~/mockenvironment/projects
+   19  ls -a ~/mockenvironment/projects
+   20  pwd
+   21  cd ~/mockenvironment/projects/project_1
+   22  cd ..
+   23  cd ~/mockenvironment/rawphotos
+   24  cd ..
+   25  cd ~/mockenvironment/rawphotos/scene_1
+   26  cd ~/mockenvironment/rawfootage/scene_1
+   27  cd ~/mockenvironment/rawphotoss/
+   28  cd ~/mockenvironment/rawphotos/
+   29  pwd
+   30  mkdir ~/mockenvironment/random_folder
+   31  history
