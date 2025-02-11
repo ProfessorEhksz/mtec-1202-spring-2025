@@ -1,0 +1,47 @@
+1  nano random_file_strucutre.sh
+    2  ls
+    3  chmod +x random_dile_strucutre.sh
+    4  chmod +x random_file_strucutre.sh
+    5  ls
+    6  pwd 
+    7  ls
+    8  ls -ls
+    9  nano random_file_strucutre.sh
+   10  ls
+   11  ./random_file_strucutre.sh
+   12  cd /home/codespace/mockenvironment
+   13  tree
+   14  ls
+   15  ls clients
+   16  ls
+   17  ~ls
+   18  ls~
+   19  ~ls clients
+   20  clients ls
+   21  -ls
+   22  ls-
+   23  ls
+   24  ls contracts
+   25  ls editedphotos
+   26  ls exports
+   27  ls invoices
+   28  ls projects
+   29  ls 
+   30  ls -l
+   31  ls h
+   32  ls -h
+   33  ls -a
+   34  pd
+   35  pwd
+   36  cd projects
+   37  cd project_1
+   38  cd projects
+   39  cd ..
+   40  cd project_2
+   41  ls
+   42  cd ..
+   43  pwd
+   44  mkdir borgor
+   45  cd borgor
+   46  echo
+   47  history
