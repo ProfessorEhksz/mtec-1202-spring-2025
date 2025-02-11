@@ -1,0 +1,135 @@
+👋 Welcome to Codespaces! You are on our default image. 
+   - It includes runtimes and tools for Python, Node.js, Docker, and more. See the full list here: https://aka.ms/ghcs-default-image
+   - Want to use a custom image instead? Learn more here: https://aka.ms/configure-codespace
+
+🔍 To explore VS Code to its fullest, search using the Command Palette (Cmd/Ctrl + Shift + P or F1).
+
+📝 Edit away, run your app as usual, and we'll automatically make it available for you to access.
+
+@Joabljr ➜ /workspaces/codespaces-blank $ ls
+@Joabljr ➜ /workspaces/codespaces-blank $ cd
+@Joabljr ➜ ~ $ ls
+java  nvm
+@Joabljr ➜ ~ $ cd /home
+@Joabljr ➜ /home $ ls
+codespace  vscode
+@Joabljr ➜ /home $ ./random_file_structure.sh
+bash: ./random_file_structure.sh: No such file or directory
+@Joabljr ➜ /home $ ls
+codespace  vscode
+@Joabljr ➜ /home $ ls -l
+total 12
+drwxrwsr-x 1 codespace codespace 4096 Feb 11 20:15 codespace
+drwxr-xr-x 3 root      root      4096 Feb 11 20:12 vscode
+@Joabljr ➜ /home $ ls -al
+total 24
+drwxr-xr-x 1 root      root      4096 Feb 11 20:12 .
+drwxr-xr-x 1 root      root      4096 Feb 11 20:12 ..
+drwxrwsr-x 1 codespace codespace 4096 Feb 11 20:15 codespace
+drwxr-xr-x 3 root      root      4096 Feb 11 20:12 vscode
+@Joabljr ➜ /home $ pwd ls
+/home
+@Joabljr ➜ /home $ pwd
+/home
+@Joabljr ➜ /home $ pwd ls -al
+/home
+@Joabljr ➜ /home $ pwd /home
+/home
+@Joabljr ➜ /home $ cd /home
+@Joabljr ➜ /home $ cd..
+bash: cd..: command not found
+@Joabljr ➜ /home $ cd
+@Joabljr ➜ ~ $ /home
+bash: /home: Is a directory
+@Joabljr ➜ ~ $ ls
+java  nvm
+@Joabljr ➜ ~ $ pwd
+/home/codespace
+@Joabljr ➜ ~ $ cd /home
+@Joabljr ➜ /home $ ls
+codespace  vscode
+@Joabljr ➜ /home $ cd home
+bash: cd: home: No such file or directory
+@Joabljr ➜ /home $ cd /home
+@Joabljr ➜ /home $ ls
+codespace  vscode
+@Joabljr ➜ /home $ cd codespace
+@Joabljr ➜ ~ $ ls
+java  nvm
+@Joabljr ➜ ~ $ cd/codespace
+bash: cd/codespace: No such file or directory
+@Joabljr ➜ ~ $  cd codespace
+bash: cd: codespace: No such file or directory
+@Joabljr ➜ ~ $ ls
+java  nvm
+@Joabljr ➜ ~ $ cd java
+@Joabljr ➜ ~/java $ ls
+17.0.13-ms  21.0.5-ms  current
+@Joabljr ➜ ~/java $ cd..
+bash: cd..: command not found
+@Joabljr ➜ ~/java $ cd ..
+@Joabljr ➜ ~ $ ls
+java  nvm
+@Joabljr ➜ ~ $ cd ..
+@Joabljr ➜ /home $ ls
+codespace  vscode
+@Joabljr ➜ /home $ cd codespace
+@Joabljr ➜ ~ $ ls
+java  nvm
+@Joabljr ➜ ~ $ cd java
+@Joabljr ➜ ~/java $ ls
+17.0.13-ms  21.0.5-ms  current
+@Joabljr ➜ ~/java $ pwd
+/home/codespace/java
+@Joabljr ➜ ~/java $ mkdir new folder1
+@Joabljr ➜ ~/java $ ls
+17.0.13-ms  21.0.5-ms  current  folder1  new
+@Joabljr ➜ ~/java $ 
+@Joabljr ➜ ~/java $ hstory
+bash: hstory: command not found
+@Joabljr ➜ ~/java $ history
+    1  ls
+    2  cd
+    3  ls
+    4  cd /home
+    5  ls
+    6  ./random_file_structure.sh
+    7  ls
+    8  ls -l
+    9  ls -al
+   10  pwd ls
+   11  pwd
+   12  pwd ls -al
+   13  pwd /home
+   14  cd /home
+   15  cd..
+   16  cd
+   17  /home
+   18  ls
+   19  pwd
+   20  cd /home
+   21  ls
+   22  cd home
+   23  cd /home
+   24  ls
+   25  cd codespace
+   26  ls
+   27  cd/codespace
+   28  ls
+   29  cd java
+   30  ls
+   31  cd..
+   32  cd ..
+   33  ls
+   34  cd ..
+   35  ls
+   36  cd codespace
+   37  ls
+   38  cd java
+   39  ls
+   40  pwd
+   41  mkdir new folder1
+   42  ls
+   43  hstory
+   44  history
+@Joabljr ➜ ~/java $ 
