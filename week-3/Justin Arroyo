@@ -1,0 +1,57 @@
+    1  nano random_file_structure.sh
+    2  ls
+    3  chmod
+    4  chmod +x random_file_structure.sh
+    5  ls
+    6  ./random_file_structure.sh
+    7  cd  /home/codespace/mockenvironment
+    8  ls
+    9  cw marketing
+   10  cd marketing 
+   11  ls
+   12  cd ..
+   13  cd products
+   14  ls
+   15  cd category_3
+   16  ls
+   17  cd ..
+   18  ls -ls
+   19  ls -a
+   20  ls -h
+   21  ls -t
+   22  ls -l
+   23  pwd
+   24  touch category_1 -p daniel.txt
+   25  cd category_1
+   26  touch daniel.txt
+   27  ls
+   28  cd ../..
+   29  ls
+   30  cd reports
+   31  cd..
+   32  ls
+   33  cd ..
+   34  ls
+   35  customers
+   36  cd customers
+   37  ls
+   38  cd .. 
+   39  cd invoices
+   40  ls
+   41  cd ..
+   42  ls
+   43  cd logs
+   44  ls
+   45  cd ..
+   46  cd products
+   47  ls
+   48  category 2
+   49  cd category_2
+   50  ls
+   51  cwd
+   52  pwd
+   53  mkdir random
+   54  ls
+   55  history
+   56  cd ../../..
+   57  history
