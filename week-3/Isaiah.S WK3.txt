@@ -1,0 +1,24 @@
+29  ls 
+   30  cd /home/codespace/mockenvironment
+   31  ls -a
+   32  ls configs
+   33  ls
+   34  ls -l
+   35  ls -a
+   36  pwd
+   37  cd games
+   38  cd ./
+   39  cd ..
+   40  cd logs
+   41  cd ..
+   42  cd rawfootage
+   43  ls -la
+   44  cd scene_5
+   45  pwd
+   46  ls
+   47  cd 6XaWapCf.txt
+   48  ls -la
+   49  pwd
+   50  cd ../..
+   51  mkdir Metec1202Lab
+   52  history
