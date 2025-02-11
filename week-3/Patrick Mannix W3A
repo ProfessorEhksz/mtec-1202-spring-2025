@@ -1,0 +1,71 @@
+    1  pwd
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd ../
+    6  cd ../..
+    7  cd home/
+    8  cd ../
+    9  cd home../
+   10  cd home/
+   11  pwd
+   12  ls
+   13  codespace
+   14  cd idk.net/
+   15  codespace/
+   16  cd codespace/
+   17  ls
+   18  cd java/
+   19  ls
+   20  cd current/
+   21  ls
+   22  cd include/
+   23  ls
+   24  cd linux/
+   25  ls
+   26  cd jawt_md.h/
+   27  cd ...
+   28  cd ..
+   29  cd ...
+   30  cd ..
+   31  ls
+   32  cd man/
+   33  ls
+   34  cd man/
+   35  cd ..
+   36  ls
+   37  cd current/
+   38  ls
+   39  cd conf/
+   40  ls
+   41  cd management/
+   42  ls
+   43  pwd
+   44  clear
+   45  cd .. all
+   46  cd all ..
+   47  cd ..
+   48  ls ~l
+   49  nano random_file_structure.sh
+   50  ls
+   51  rm -rf random_file_structure.sh
+   52  chmod +x random_file_structure.sh
+   53  nano random_file_structure.sh
+   54  chmod +x random_file_structure.sh
+   55  ls
+   56  ./random_file_structure.sh
+   57  ls
+   58  ls <folder_name>
+   59  ls random_file_structure.sh
+   60  ls
+   61  ls -L
+   62  ls -a
+   63  pwd
+   64  cd random_file_structure.sh
+   65  cd <folder_name>
+   66  cd /path/to/other/random_file_structure.sh
+   67  cd ..
+   68  cd <deepest_folder_path>
+   69  pwd
+   70  mkdir $(openssl rand -hex 12)
+   71  history
