@@ -1,0 +1,178 @@
+@ayojay222 ➜ /workspaces/mtec-1202-spring-2025 (main) $ ls folder_name
+ls: cannot access 'folder_name': No such file or directory
+@ayojay222 ➜ /workspaces/mtec-1202-spring-2025 (main) $ ls
+ Amelie_Bajor.txt        Isaiah_S.txt       'Joseph Williams.txt'   Patrick-Mannix.txt   initial-file.txt   reginald-fairley.txt   week-3-lab-2
+ Anderson-Tenecela.txt   JoabLirianoJr.txt   Justin-Arroyo.txt      aydin.txt            jaylin.txt         week-3
+@ayojay222 ➜ /workspaces/mtec-1202-spring-2025 (main) $ ls -l
+total 52
+-rw-rw-rw-  1 codespace root 1702 Feb 16 18:49  Amelie_Bajor.txt
+-rw-rw-rw-  1 codespace root  247 Feb 16 18:49  Anderson-Tenecela.txt
+-rw-rw-rw-  1 codespace root 1014 Feb 16 18:49  Isaiah_S.txt
+-rw-rw-rw-  1 codespace root 2498 Feb 16 18:49  JoabLirianoJr.txt
+-rw-rw-rw-  1 codespace root 2226 Feb 16 18:49 'Joseph Williams.txt'
+-rw-rw-rw-  1 codespace root 1113 Feb 16 18:49  Justin-Arroyo.txt
+-rw-rw-rw-  1 codespace root 1357 Feb 16 18:49  Patrick-Mannix.txt
+-rw-rw-rw-  1 codespace root 1417 Feb 16 18:49  aydin.txt
+-rw-rw-rw-  1 codespace root   11 Feb 16 18:49  initial-file.txt
+-rw-rw-rw-  1 codespace root  860 Feb 16 18:49  jaylin.txt
+-rw-rw-rw-  1 codespace root  528 Feb 16 18:49  reginald-fairley.txt
+drwxrwxrwx+ 2 codespace root 4096 Feb 16 19:56  week-3
+drwxrwxrwx+ 2 codespace root 4096 Feb 16 18:49  week-3-lab-2
+@ayojay222 ➜ /workspaces/mtec-1202-spring-2025 (main) $ ls -a
+ .    .git               Anderson-Tenecela.txt   JoabLirianoJr.txt      Justin-Arroyo.txt    aydin.txt          jaylin.txt             week-3
+ ..   Amelie_Bajor.txt   Isaiah_S.txt           'Joseph Williams.txt'   Patrick-Mannix.txt   initial-file.txt   reginald-fairley.txt   week-3-lab-2
+@ayojay222 ➜ /workspaces/mtec-1202-spring-2025 (main) $ pwd
+/workspaces/mtec-1202-spring-2025
+@ayojay222 ➜ /workspaces/mtec-1202-spring-2025 (main) $ cd folder_name
+bash: cd: folder_name: No such file or directory
+@ayojay222 ➜ /workspaces/mtec-1202-spring-2025 (main) $ cd ..
+@ayojay222 ➜ /workspaces $ cd/path/to/other/folder
+bash: cd/path/to/other/folder: No such file or directory
+@ayojay222 ➜ /workspaces $ cd ..
+@ayojay222 ➜ / $ cd $(find . - type d | sort | tail -n 1)
+find: ‘./opt/containerd’: Permission denied
+find: ‘./root’: Permission denied
+find: ‘./etc/ssl/private’: Permission denied
+find: ‘./etc/polkit-1/localauthority’: Permission denied
+find: ‘./var/cache/ldconfig’: Permission denied
+find: ‘./var/cache/apt/archives/partial’: Permission denied
+find: ‘./var/cache/private’: Permission denied
+find: ‘./var/lib/docker’: Permission denied
+find: ‘./var/lib/private’: Permission denied
+find: ‘./var/lib/polkit-1’: Permission denied
+find: ‘./var/log/private’: Permission denied
+find: ‘./proc/tty/driver’: Permission denied
+find: ‘./proc/35/task/35/fd’: Permission denied
+find: ‘./proc/35/task/35/fdinfo’: Permission denied
+find: ‘./proc/35/task/35/ns’: Permission denied
+find: ‘./proc/35/fd’: Permission denied
+find: ‘./proc/35/map_files’: Permission denied
+find: ‘./proc/35/fdinfo’: Permission denied
+find: ‘./proc/35/ns’: Permission denied
+find: ‘./proc/58/task/58/fd’: Permission denied
+find: ‘./proc/58/task/58/fdinfo’: Permission denied
+find: ‘./proc/58/task/58/ns’: Permission denied
+find: ‘./proc/58/task/66/fd’: Permission denied
+find: ‘./proc/58/task/66/fdinfo’: Permission denied
+find: ‘./proc/58/task/66/ns’: Permission denied
+find: ‘./proc/58/task/67/fd’: Permission denied
+find: ‘./proc/58/task/67/fdinfo’: Permission denied
+find: ‘./proc/58/task/67/ns’: Permission denied
+find: ‘./proc/58/task/68/fd’: Permission denied
+find: ‘./proc/58/task/68/fdinfo’: Permission denied
+find: ‘./proc/58/task/68/ns’: Permission denied
+find: ‘./proc/58/task/69/fd’: Permission denied
+find: ‘./proc/58/task/69/fdinfo’: Permission denied
+find: ‘./proc/58/task/69/ns’: Permission denied
+find: ‘./proc/58/task/70/fd’: Permission denied
+find: ‘./proc/58/task/70/fdinfo’: Permission denied
+find: ‘./proc/58/task/70/ns’: Permission denied
+find: ‘./proc/58/task/72/fd’: Permission denied
+find: ‘./proc/58/task/72/fdinfo’: Permission denied
+find: ‘./proc/58/task/72/ns’: Permission denied
+find: ‘./proc/58/task/121/fd’: Permission denied
+find: ‘./proc/58/task/121/fdinfo’: Permission denied
+find: ‘./proc/58/task/121/ns’: Permission denied
+find: ‘./proc/58/task/122/fd’: Permission denied
+find: ‘./proc/58/task/122/fdinfo’: Permission denied
+find: ‘./proc/58/task/122/ns’: Permission denied
+find: ‘./proc/58/task/123/fd’: Permission denied
+find: ‘./proc/58/task/123/fdinfo’: Permission denied
+find: ‘./proc/58/task/123/ns’: Permission denied
+find: ‘./proc/58/fd’: Permission denied
+find: ‘./proc/58/map_files’: Permission denied
+find: ‘./proc/58/fdinfo’: Permission denied
+find: ‘./proc/58/ns’: Permission denied
+find: ‘./proc/71/task/71/fd’: Permission denied
+find: ‘./proc/71/task/71/fdinfo’: Permission denied
+find: ‘./proc/71/task/71/ns’: Permission denied
+find: ‘./proc/71/task/73/fd’: Permission denied
+find: ‘./proc/71/task/73/fdinfo’: Permission denied
+find: ‘./proc/71/task/73/ns’: Permission denied
+find: ‘./proc/71/task/74/fd’: Permission denied
+find: ‘./proc/71/task/74/fdinfo’: Permission denied
+find: ‘./proc/71/task/74/ns’: Permission denied
+find: ‘./proc/71/task/75/fd’: Permission denied
+find: ‘./proc/71/task/75/fdinfo’: Permission denied
+find: ‘./proc/71/task/75/ns’: Permission denied
+find: ‘./proc/71/task/76/fd’: Permission denied
+find: ‘./proc/71/task/76/fdinfo’: Permission denied
+find: ‘./proc/71/task/76/ns’: Permission denied
+find: ‘./proc/71/task/77/fd’: Permission denied
+find: ‘./proc/71/task/77/fdinfo’: Permission denied
+find: ‘./proc/71/task/77/ns’: Permission denied
+find: ‘./proc/71/task/90/fd’: Permission denied
+find: ‘./proc/71/task/90/fdinfo’: Permission denied
+find: ‘./proc/71/task/90/ns’: Permission denied
+find: ‘./proc/71/task/102/fd’: Permission denied
+find: ‘./proc/71/task/102/fdinfo’: Permission denied
+find: ‘./proc/71/task/102/ns’: Permission denied
+find: ‘./proc/71/fd’: Permission denied
+find: ‘./proc/71/map_files’: Permission denied
+find: ‘./proc/71/fdinfo’: Permission denied
+find: ‘./proc/71/ns’: Permission denied
+find: ‘./proc/431/task/431/fd’: Permission denied
+find: ‘./proc/431/task/431/fdinfo’: Permission denied
+find: ‘./proc/431/task/431/ns’: Permission denied
+find: ‘./proc/431/fd’: Permission denied
+find: ‘./proc/431/map_files’: Permission denied
+find: ‘./proc/431/fdinfo’: Permission denied
+find: ‘./proc/431/ns’: Permission denied
+find: ‘./proc/1191/task/1191/fd’: Permission denied
+find: ‘./proc/1191/task/1191/fdinfo’: Permission denied
+find: ‘./proc/1191/task/1191/ns’: Permission denied
+find: ‘./proc/1191/fd’: Permission denied
+find: ‘./proc/1191/map_files’: Permission denied
+find: ‘./proc/1191/fdinfo’: Permission denied
+find: ‘./proc/1191/ns’: Permission denied
+find: ‘./proc/13204/task/13204/fd’: Permission denied
+find: ‘./proc/13204/task/13204/fdinfo’: Permission denied
+find: ‘./proc/13204/task/13204/ns’: Permission denied
+find: ‘./proc/13204/fd’: Permission denied
+find: ‘./proc/13204/map_files’: Permission denied
+find: ‘./proc/13204/fdinfo’: Permission denied
+find: ‘./proc/13204/ns’: Permission denied
+find: ‘./proc/13622/task/13622/fd’: Permission denied
+find: ‘./proc/13622/task/13622/fdinfo’: Permission denied
+find: ‘./proc/13622/task/13622/ns’: Permission denied
+find: ‘./proc/13622/fd’: Permission denied
+find: ‘./proc/13622/map_files’: Permission denied
+find: ‘./proc/13622/fdinfo’: Permission denied
+find: ‘./proc/13622/ns’: Permission denied
+find: ‘./run/containerd’: Permission denied
+find: ‘./run/docker’: Permission denied
+find: ‘-’: No such file or directory
+find: ‘type’: No such file or directory
+find: ‘d’: No such file or directory
+bash: cd: ./workspaces/mtec-1202-spring-2025/week-3/aydin.txt: Not a directory
+@ayojay222 ➜ / $ pwd
+/
+@ayojay222 ➜ / $ mkdir boom123
+mkdir: cannot create directory ‘boom123’: Permission denied
+@ayojay222 ➜ / $ history
+    1  /workspaces/codespaces-blank $ ls
+    2  /workspace/codespace-blank $ nano random_file_structure.sh
+    3  /workspace/codespaces-blank $ nano random_file_structure.sh
+    4  workspaces
+    5  $ ls
+    6  cd /home
+    7  /home $ ls
+    8  codespace vscode
+    9  /home $ ./random_file_structure.sh
+   10  ls
+   11  vscode
+   12  /home $ ls -l
+   13  ls folder_name
+   14  ls
+   15  ls -l
+   16  ls -a
+   17  pwd
+   18  cd folder_name
+   19  cd ..
+   20  cd/path/to/other/folder
+   21  cd ..
+   22  cd $(find . - type d | sort | tail -n 1)
+   23  pwd
+   24  mkdir boom123
+   25  history
+@ayojay222 ➜ / $ 
