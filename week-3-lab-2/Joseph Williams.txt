@@ -1,0 +1,286 @@
+ 1  ls
+    2  cd..
+    3  cd ..
+    4  cd codespaces-blank
+    5  chmod +x random_file_structure.sh
+    6  ls
+    7  cd ..
+    8  ls
+    9  cd workspaces
+   10  ls
+   11  cd mockenviroment
+   12  chmod +x random_file_structure.sh
+   13  cd codespaces-blank
+   14  ls
+   15  chmod +x random_file_structure.sh
+   16  nano random_file_structure.sh
+   17  chmod +x random_file_structure.sh
+   18  ls
+   19  ./random_file_structure.sh
+   20  ls
+   21  cd /home/codespace/mockenvironment
+   22  tree
+   23  ls
+   24  cd contracts
+   25  ls
+   26  cd rawfootage
+   27  cd ..
+   28  cd rawfootage
+   29  ls
+   30  cd ..
+   31  cd contracts
+   32  ls
+   33  rm contracts
+   34  cd ..
+   35  rm contracts
+   36  rm -r contracts
+   37  ls
+   38  rm -r editedfootage invoices
+   39  ls
+   40  mkdir -p folder_mw1/folder_p2/folder_jt3/folder_cd4
+   41  ls
+   42  rm -r folder_mw1
+   43  ls
+   44  mkdir folder_mw1 folder_p2
+   45  ls
+   46  clear
+   47  ls
+   48  mkdir folder_jt3 folder_cd4 folder_shx5
+   49  ls
+   50  cd rawfootage
+   51  ls
+   52  cd scene_1
+   53  ls
+   54  mv VucEYR18.png /mockenvironment/folder_p2/
+   55  mv VucEYR18.png mockenvironment/folder_p2/
+   56  cd folder_p2
+   57  cd ..
+   58  ls
+   59  cd folder_p2
+   60  pwd
+   61  cd ..
+   62  cd rawfootage
+   63  ls
+   64  cd scene_1
+   65  ls
+   66  mv VucEYR18.png /home/codespace/mockenvironment/folder_p2
+   67  ls
+   68  mv iS91Nodf.json /home/codespace/mockenvironment/folder_jt3
+   69  mv pIoJJLeH.docx /home/codespace/mockenvironment/folder_cd4
+   70  mv yxugz00f.xlsx /home/codespace/mockenvironment/folder_shx5
+   71  ls
+   72  cd ../..
+   73  ls
+   74  cd folder_jt3
+   75  ls
+   76  cd ..
+   77  cd rawfootage
+   78  ls
+   79  cd scene_2
+   80  ls
+   81  cd ..
+   82  cp scene_2 /home/codespace/mockenvironment/folder_mw1 
+   83  cd scene_2
+   84  cp -R .png .pdf /home/codespace/mockenvironment/folder_p2
+   85  mv 0qPGAxAI.png  4vNl1K2m.pdf  LnHCl7sN.mp4  eVpWjZRL.pdf  hEpOKQCf.xlsx1y8IPpFy.mp3  KRZJJMXm.sh   axLDNssD.sh   ghUdoISC.mp3  nvtMnvij.json /home/codespace/mockenvironment/folder_p2
+   86  cd ..
+   87  tree
+   88  ls
+   89  cd folder_p2
+   90  ls
+   91  pwd
+   92  cd ..
+   93  ls
+   94  cd rawfootage
+   95  ls
+   96  cd scene_2
+   97  ls
+   98  mv 1y8IPpFy.mp3  hEpOKQCf.xlsx /home/codespace/mockenvironment/folder_p2
+   99  ls 
+  100  cd ..
+  101  ls
+  102  cd scene_3
+  103  ls
+  104  mv 93fTYfSe.csv  bcnmSLJv.html  eq881k1o.sh  lYtzpHbA.mp3  lZT5tpEm.png  tAjqaSd0.mp4 /home/codespace/mockenvironment/folder_p2
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd scene_4
+  109  ls
+  110  mv 5kX9YEcM.jpg  ZpSWiv6J.wav  hyPkTjht.pdf   pCsozaiF.mp3 H6xx4RVk.wav  fEzMYBYc.sh   iLBiLaIA.docx /home/codespace/mockenvironment/folder_p2
+  111  cd ..
+  112  scene_5
+  113  cd scene_5
+  114  ls
+  115  mv 02eaCyq8.sh  A6ce8RQg.wav  HOKDHZZR.mp3   KSriC3wW.png  xfnZLCRM.pdf 6HoI3WVs.sh  GsPI30aH.csv  JEc8L64R.pptx  tjiYWyvw.csv /home/codespace/mockenvironment/folder_p2
+  116  ls
+  117  clear
+  118  tree
+  119  cd ..
+  120  tree
+  121  ls
+  122  cd folder_p2
+  123  ls
+  124  mv *.sh folder_shx5
+  125  cd ..
+  126  ls
+  127  folder_shx5
+  128  cd folder_shx5
+  129  pwd
+  130  cd ..
+  131  cd folder_p2
+  132  mv *.sh /home/codespace/mockenvironment/folder_shx5
+  133  ls
+  134  clear
+  135  cd..
+  136  cd ..
+  137  ls
+  138  cd samples
+  139  ls
+  140  cd sample _1
+  141  cd sample_1
+  142  ls
+  143  cd ../..
+  144  cd foldr_p2
+  145  cd folder_p2
+  146  clear
+  147  pwd
+  148  cd .
+  149  cd ..
+  150  ls
+  151  cd samples
+  152  ls
+  153  cd sample_1
+  154  ls
+  155  mv 0V0WQTGa.pptx  FecfB1G4.txt  IOJEzlXN.csv  Po1vXU2S.xlsx  apzZw1Sr.png EcyyLiBu.docx  HQ3rXo2y.sh   M1sb2skx.txt  XiJn9vja.csv   fvgzYrkT.sh /home/codespace/mockenvironment/folder_p2
+  156  ls
+  157  cd ..
+  158  cd sample_2
+  159  ls
+  160  mv 6AzVaGQY.txt  6mxxC6lN.json  VlcNMKZl.json  tpRqXV7k.json /home/codespace/mockenvironment/folder_p2
+  161  ls
+  162  cd ..
+  163  cd sample_3
+  164  ls
+  165  mv 2HiDXPlS.pptx  8KC14Co8.mp3  RuHGR0MS.json  c2XyPAtc.pptx 6sB2JcXx.docx  KWH7tXuF.jpg  UA6CHQXH.xlsx  f0JnPfPu.log /home/codespace/mockenvironment/folder_p2
+  166  ls
+  167  cd ..
+  168  cd sample_4
+  169  ls
+  170  mv UluPBbpt.wav   ZUJd3i75.pptx  fn3PxShP.mp3  lHhui8k4.mp3  rr0Fx3lP.json XIZ25qSq.json  e7TH11dr.csv   g0ZYcBEH.jpg  nIZSWMZH.mp3 /home/codespace/mockenvironment/folder_p2
+  171  ls
+  172  cd ..
+  173  cd sample_5
+  174  ls
+  175  mv CJ148C41.jpg  Cf0xXKQg.xlsx  FBqTYRYF.pdf  am5sqPlg.xlsx  eucsBjhZ.mp4 /home/codespace/mockenvironment/folder_p2
+  176  ls
+  177  cd ..
+  178  ls
+  179  cd folder_p2
+  180  pwd
+  181  clear
+  182  pwd
+  183  cd ..
+  184  ls
+  185  cd scripts
+  186  ls
+  187  cd script_1
+  188  ls
+  189  mv KDOdSxm3.json  eNBAJO3i.mp3  hKJnNyya.xlsx  m7viFVoq.html X8sJok7R.json  eeH33J4L.mp4  l3Ufbo6L.txt   p3rAD6U5.html /home/codespace/mockenvironment/folder_p2
+  190  ls
+  191  cd ..
+  192  script_2
+  193  cd script_2
+  194  ls
+  195  mv 3u6BzhwV.csv  74kESFvx.docx  GAu0FNQL.docx  iSZjZMB3.mp4  yV5jgrUt.mp3 4S0gFkLS.mp3  7pRwj7Gy.mp4   YbWulZxz.csv   preymyMc.wav 6aIACgGg.jpg  F7lKbqtF.csv   drJpnB8Z.csv   qNWBGHiS.png /home/codespace/mockenvironment/folder_p2
+  196  ls
+  197  cd ..
+  198  cd script_3
+  199  ls
+  200  mv 0c1A4Rad.csv  IarQTuD4.png  JUvp1QY1.mp3  TKFsfczb.json  UyB8mPRJ.csv /home/codespace/mockenvironment/folder_p2
+  201  ls
+  202  cd ..
+  203  cd script_4
+  204  ls
+  205  mv 3kVmZ0n0.json  IFv5iApF.csv   N7WMQYVg.wav   YSECJT9f.json  wNIudnIc.mp4 GZnvWW2u.jpg   L6WJqAMC.sh    S4KCbYUF.csv   duubSnSH.mp4   wTablmxU.docx HS6QqcDT.png   MlfX1zak.xlsx  TXXdzLk7.xlsx  wAYUMfgJ.mp3 /home/codespace/mockenvironment/folder_p2
+  206  ls
+  207  cd ..
+  208  cd scripts_5
+  209  cd script_5
+  210  ls
+  211  mv 5U90mNtQ.wav  GjIDwj4l.txt  jNqm1Cb2.docx  xwbFnTQf.mp4 CaTOJIzD.wav  WpTXxrkt.mp3  o5j1quR2.mp3 /home/codespace/mockenvironment/folder_p2
+  212  ls
+  213  cd ..
+  214  ls
+  215  cd folder_p2 
+  216  pwd
+  217  clear
+  218  pwd
+  219  cd ..
+  220  ls
+  221  cd tracks
+  222  ls
+  223  cd track_1
+  224  ls
+  225  mv D5WMCPeo.csv  KJH1jHGM.html  QKBhIyXI.wav   dVxN32ZS.pptx HmWTUK1S.jpg  LdctsN57.png   YhqoEglu.xlsx  wSuPKX1V.log /home/codespace/mockenvironment/folder_p2
+  226  ls
+  227  cd ..
+  228  cd track_2
+  229  ls
+  230  mv 2t32Z4GU.wav  5fNiAzB5.json  GQxAHmll.pdf  YsSR0f7h.log  gaACZhUf.sh 3xIkTtnP.png  7aErD2sR.jpg   P6POnmxy.csv  YshtSjvd.mp3  wRda5DyJ.mp4 /home/codespace/mockenvironment/folder_p2
+  231  ls
+  232  cd ..
+  233  cd track_3
+  234  ls
+  235  mv 20U3Hk7V.html  FuJiYn9s.sh   RgIRFMB4.txt  Vkax3rip.pdf  gLJAU7Xr.pptx  v0OpSOpH.log 49VaqppI.log   Mm28J5Pq.log  U2dqKa3P.txt  cP4iE1M9.png  pBxw4SDu.jpg /home/codespace/mockenvironment/folder_p2
+  236  ls
+  237  cd ..
+  238  cd track_4 
+  239  ls
+  240  mv 2baQQr9w.mp3  LBVxQLnU.wav  ZW807DU2.html  hxR5YhLV.mp4  ww8s7tli.log GTqfNBkg.csv  VoK5KilU.sh   fhMed1yk.docx  orLxG6Rc.mp3 /home/codespace/mockenvironment/folder_p2
+  241  ls
+  242  cd ..
+  243  ls
+  244  cd track_5
+  245  ls
+  246  mv Lk914foR.pdf  MxZtbWxZ.xlsx  TEzuX4J3.pdf  XhrebyZf.html  YzBgBbwE.mp3  pdr8T9JI.pptx /home/codespace/mockenvironment/folder_p2
+  247  ls
+  248  cd ..
+  249  tree
+  250  clear
+  251  ls
+  252  cd folder_p2
+  253  ls
+  254  clear
+  255  cd ..
+  256  ls
+  257  cd folder_jt3
+  258  pwd
+  259  cd ..
+  260  cd folder_p2
+  261  ls
+  262  mv *.pptx /home/codespace/mockenvironment/folder_jt3
+  263  mv *.json /home/codespace/mockenvironment/folder_jt3
+  264  mv *.txt /home/codespace/mockenvironment/folder_jt3
+  265  ls
+  266  mv *.csv /home/codespace/mockenvironment/folder_cd4
+  267  mv *.docx /home/codespace/mockenvironment/folder_cd4
+  268  mv *.mp3 /home/codespace/mockenvironment/folder_mw1
+  269  mv *mp4 /home/codespace/mockenvironment/folder_mw1
+  270  ls
+  271  mv *.wav /home/codespace/mockenvironment/folder_mw1
+  272  mv *.xlsx /home/codespace/mockenvironment/folder_shx5
+  273  mv *.sh /home/codespace/mockenvironment/folder_shx5
+  274  mv *.html /home/codespace/mockenvironment/folder_shx5
+  275  ls
+  276  mv *jpg /home/codespace/mockenvironment/folder_jt3
+  277  ls
+  278  cd ..
+  279  ls
+  280  cd folder_jt3
+  281  ls
+  282  mv *.pptx /home/codespace/mockenvironment/folder_p2
+  283  ls
+  284  cd ..
+  285  tree
+  286  history
