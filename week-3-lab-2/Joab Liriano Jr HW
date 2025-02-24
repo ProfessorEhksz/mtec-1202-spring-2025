@@ -1,0 +1,1047 @@
+
+order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   ├── flPYDIqd.mp4
+│   │   ├── gxkkx25J.mp3
+│   │   ├── ixwM00WT.mp3
+│   │   └── vxfcD8Wm.png
+│   ├── order_4
+│   │   ├── 2YxS1T2N.jpg
+│   │   ├── 8shNoAZV.txt
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       ├── fcjJ7jCA.png
+│       └── yNn6WdYl.sh
+├── products
+│   ├── category_1
+│   │   ├── 0zOnvO4Y.mp3
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── Gqhs2dfw.txt
+│   │   ├── NMVRahVW.mp4
+│   │   ├── gyGju678.txt
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── 7RJXXr4G.png
+│   │   ├── AZ0N4aTP.mp3
+│   │   ├── HDnU6JhR.png
+│   │   ├── L7DkRWfR.png
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── lH52m6Co.png
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── 8PX4Tw1l.png
+│   │   ├── HJUpvdY4.html
+│   │   ├── PZD3dPyp.jpg
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   ├── n3KlXiWG.jpg
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── 9w10vyFx.txt
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── DQa6FWBX.mp3
+│       ├── Hx3l2Rsk.mp3
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       ├── nBu8yu7G.txt
+│       └── wqisQVik.json
+└── reports
+
+18 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ cd ~/mockenvironment
+@Joabljr ➜ ~/mockenvironment $ mkdir jpeg_files
+@Joabljr ➜ ~/mockenvironment $ find . -name "*.jpg" -exec mv {} jpeg_files/ \;
+@Joabljr ➜ ~/mockenvironment $ ls
+customers  invoices  jpeg_files  logs  marketing  orders  products  reports
+@Joabljr ➜ ~/mockenvironment $ cd jpeg_files
+@Joabljr ➜ ~/mockenvironment/jpeg_files $ ls
+2YxS1T2N.jpg  PZD3dPyp.jpg  n3KlXiWG.jpg
+@Joabljr ➜ ~/mockenvironment/jpeg_files $ cd..
+bash: cd..: command not found
+@Joabljr ➜ ~/mockenvironment/jpeg_files $ cd/
+bash: cd/: No such file or directory
+@Joabljr ➜ ~/mockenvironment/jpeg_files $ cd/..
+bash: cd/..: No such file or directory
+@Joabljr ➜ ~/mockenvironment/jpeg_files $ cd ..
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── NScC6rSw.mp3
+│   │   ├── U3gWFk02.wav
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── cgDxOWmH.mp3
+│   │   ├── feDFzOGF.csv
+│   │   ├── gvhd3JhI.mp3
+│   │   ├── mp3
+│   │   └── qUEyGRok.txt
+│   ├── order_2
+│   │   ├── J1eMhbNI.wav
+│   │   ├── VQGoOpBQ.sh
+│   │   ├── jqqZWP9D.wav
+│   │   ├── ku1f0l9L.wav
+│   │   └── ohZFccJB.png
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   ├── flPYDIqd.mp4
+│   │   ├── gxkkx25J.mp3
+│   │   ├── ixwM00WT.mp3
+│   │   └── vxfcD8Wm.png
+│   ├── order_4
+│   │   ├── 8shNoAZV.txt
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       ├── fcjJ7jCA.png
+│       └── yNn6WdYl.sh
+├── products
+│   ├── category_1
+│   │   ├── 0zOnvO4Y.mp3
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── Gqhs2dfw.txt
+│   │   ├── NMVRahVW.mp4
+│   │   ├── gyGju678.txt
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── 7RJXXr4G.png
+│   │   ├── AZ0N4aTP.mp3
+│   │   ├── HDnU6JhR.png
+│   │   ├── L7DkRWfR.png
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── lH52m6Co.png
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── 8PX4Tw1l.png
+│   │   ├── HJUpvdY4.html
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── 9w10vyFx.txt
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── DQa6FWBX.mp3
+│       ├── Hx3l2Rsk.mp3
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       ├── nBu8yu7G.txt
+│       └── wqisQVik.json
+└── reports
+
+19 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ mkdir png_files
+@Joabljr ➜ ~/mockenvironment $ mv ohZFccJB.png vxfcD8Wm.png vxfcD8Wm.png fcjJ7jCA.png 7RJXXr4G.png HDnU6JhR.pngmv: target 'HDnU6JhR.png' is not a directory
+@Joabljr ➜ ~/mockenvironment $ mv ohZFccJB.png vxfcD8Wm.png vxfcD8Wm.png fcjJ7jCA.png 7RJXXr4G HDnU6JhR.png L7DkRWfR.png lH52m6Co.png 8PX4Tw1l.png png_files/
+mv: cannot stat 'ohZFccJB.png': No such file or directory
+mv: cannot stat 'vxfcD8Wm.png': No such file or directory
+mv: cannot stat 'vxfcD8Wm.png': No such file or directory
+mv: cannot stat 'fcjJ7jCA.png': No such file or directory
+mv: cannot stat '7RJXXr4G': No such file or directory
+mv: cannot stat 'HDnU6JhR.png': No such file or directory
+mv: cannot stat 'L7DkRWfR.png': No such file or directory
+mv: cannot stat 'lH52m6Co.png': No such file or directory
+mv: cannot stat '8PX4Tw1l.png': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ mv ohZFccJB.png vxfcD8Wm.png vxfcD8Wm.png fcjJ7jCA.png 7RJXXr4G HDnU6JhR.png L7DkRWfR.png lH52m6Co.png 8PX4Tw1l.png png_files/ \;
+mv: target ';' is not a directory
+@Joabljr ➜ ~/mockenvironment $ mv ohZFccJB.png vxfcD8Wm.png vxfcD8Wm.png fcjJ7jCA.png 7RJXXr4G HDnU6JhR.png L7DkRWfR.png lH52m6Co.png 8PX4Tw1l.png png_files/ \
+> ls
+mv: target 'ls' is not a directory
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── NScC6rSw.mp3
+│   │   ├── U3gWFk02.wav
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── cgDxOWmH.mp3
+│   │   ├── feDFzOGF.csv
+│   │   ├── gvhd3JhI.mp3
+│   │   ├── mp3
+│   │   └── qUEyGRok.txt
+│   ├── order_2
+│   │   ├── J1eMhbNI.wav
+│   │   ├── VQGoOpBQ.sh
+│   │   ├── jqqZWP9D.wav
+│   │   ├── ku1f0l9L.wav
+│   │   └── ohZFccJB.png
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   ├── flPYDIqd.mp4
+│   │   ├── gxkkx25J.mp3
+│   │   ├── ixwM00WT.mp3
+│   │   └── vxfcD8Wm.png
+│   ├── order_4
+│   │   ├── 8shNoAZV.txt
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       ├── fcjJ7jCA.png
+│       └── yNn6WdYl.sh
+├── png_files
+├── products
+│   ├── category_1
+│   │   ├── 0zOnvO4Y.mp3
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── Gqhs2dfw.txt
+│   │   ├── NMVRahVW.mp4
+│   │   ├── gyGju678.txt
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── 7RJXXr4G.png
+│   │   ├── AZ0N4aTP.mp3
+│   │   ├── HDnU6JhR.png
+│   │   ├── L7DkRWfR.png
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── lH52m6Co.png
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── 8PX4Tw1l.png
+│   │   ├── HJUpvdY4.html
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── 9w10vyFx.txt
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── DQa6FWBX.mp3
+│       ├── Hx3l2Rsk.mp3
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       ├── nBu8yu7G.txt
+│       └── wqisQVik.json
+└── reports
+
+20 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ cd ~/mockenvironment
+@Joabljr ➜ ~/mockenvironment $ mv ohZFccJB.png png_files/
+mv: cannot stat 'ohZFccJB.png': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ ls
+customers  invoices  jpeg_files  logs  marketing  orders  png_files  products  reports
+@Joabljr ➜ ~/mockenvironment $ mv ohZFccJB.png png_files/
+mv: cannot stat 'ohZFccJB.png': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ ls *ohZFccJB.png*
+ls: cannot access '*ohZFccJB.png*': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ ls *ohZFccJB.png*
+ls: cannot access '*ohZFccJB.png*': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ cd mockenviroment
+bash: cd: mockenviroment: No such file or directory
+@Joabljr ➜ ~/mockenvironment $ cd orders
+@Joabljr ➜ ~/mockenvironment/orders $ mv ohZFccJB.png png_files/
+mv: cannot stat 'ohZFccJB.png': No such file or directory
+@Joabljr ➜ ~/mockenvironment/orders $ cd ~/mockenvironment
+@Joabljr ➜ ~/mockenvironment $ mv *.png png_files/
+mv: cannot stat '*.png': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ cd ~/mockenvironment
+@Joabljr ➜ ~/mockenvironment $ mkdir -p png_files
+@Joabljr ➜ ~/mockenvironment $ mv *.png png_files/
+mv: cannot stat '*.png': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ find mv *.png png_files/
+find: ‘mv’: No such file or directory
+find: ‘*.png’: No such file or directory
+png_files/
+@Joabljr ➜ ~/mockenvironment $ cd ~/mockenvironment
+@Joabljr ➜ ~/mockenvironment $ mkdir -p png_files
+@Joabljr ➜ ~/mockenvironment $ find . -name "*.png" -exec mv {} png_files/ \;
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── NScC6rSw.mp3
+│   │   ├── U3gWFk02.wav
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── cgDxOWmH.mp3
+│   │   ├── feDFzOGF.csv
+│   │   ├── gvhd3JhI.mp3
+│   │   ├── mp3
+│   │   └── qUEyGRok.txt
+│   ├── order_2
+│   │   ├── J1eMhbNI.wav
+│   │   ├── VQGoOpBQ.sh
+│   │   ├── jqqZWP9D.wav
+│   │   └── ku1f0l9L.wav
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   ├── flPYDIqd.mp4
+│   │   ├── gxkkx25J.mp3
+│   │   └── ixwM00WT.mp3
+│   ├── order_4
+│   │   ├── 8shNoAZV.txt
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       └── yNn6WdYl.sh
+├── png_files
+│   ├── 7RJXXr4G.png
+│   ├── 8PX4Tw1l.png
+│   ├── HDnU6JhR.png
+│   ├── L7DkRWfR.png
+│   ├── fcjJ7jCA.png
+│   ├── lH52m6Co.png
+│   ├── ohZFccJB.png
+│   └── vxfcD8Wm.png
+├── products
+│   ├── category_1
+│   │   ├── 0zOnvO4Y.mp3
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── Gqhs2dfw.txt
+│   │   ├── NMVRahVW.mp4
+│   │   ├── gyGju678.txt
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── AZ0N4aTP.mp3
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── HJUpvdY4.html
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── 9w10vyFx.txt
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── DQa6FWBX.mp3
+│       ├── Hx3l2Rsk.mp3
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       ├── nBu8yu7G.txt
+│       └── wqisQVik.json
+└── reports
+
+20 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ mkdir mp4_files
+@Joabljr ➜ ~/mockenvironment $ find . -name "*.png" -exec mv {} png_files/ \;
+mv: './png_files/lH52m6Co.png' and 'png_files/lH52m6Co.png' are the same file
+mv: './png_files/fcjJ7jCA.png' and 'png_files/fcjJ7jCA.png' are the same file
+mv: './png_files/8PX4Tw1l.png' and 'png_files/8PX4Tw1l.png' are the same file
+mv: './png_files/7RJXXr4G.png' and 'png_files/7RJXXr4G.png' are the same file
+mv: './png_files/L7DkRWfR.png' and 'png_files/L7DkRWfR.png' are the same file
+mv: './png_files/ohZFccJB.png' and 'png_files/ohZFccJB.png' are the same file
+mv: './png_files/vxfcD8Wm.png' and 'png_files/vxfcD8Wm.png' are the same file
+mv: './png_files/HDnU6JhR.png' and 'png_files/HDnU6JhR.png' are the same file
+@Joabljr ➜ ~/mockenvironment $ find . -name "*.mp3" -exec mv {} mp3_files/ \;
+mv: cannot move './products/category_5/Hx3l2Rsk.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './products/category_5/DQa6FWBX.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './products/category_2/AZ0N4aTP.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './products/category_1/0zOnvO4Y.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './orders/order_1/gvhd3JhI.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './orders/order_1/cgDxOWmH.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './orders/order_1/NScC6rSw.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './orders/order_3/ixwM00WT.mp3' to 'mp3_files/': Not a directory
+mv: cannot move './orders/order_3/gxkkx25J.mp3' to 'mp3_files/': Not a directory
+@Joabljr ➜ ~/mockenvironment $ cd ~/mockenvironment
+@Joabljr ➜ ~/mockenvironment $ mkdir -p mp3_files
+@Joabljr ➜ ~/mockenvironment $ find . -name "*.mp3" -exec mv {} mp3_files/ \;
+mv: './mp3_files/Hx3l2Rsk.mp3' and 'mp3_files/Hx3l2Rsk.mp3' are the same file
+mv: './mp3_files/AZ0N4aTP.mp3' and 'mp3_files/AZ0N4aTP.mp3' are the same file
+mv: './mp3_files/0zOnvO4Y.mp3' and 'mp3_files/0zOnvO4Y.mp3' are the same file
+mv: './mp3_files/DQa6FWBX.mp3' and 'mp3_files/DQa6FWBX.mp3' are the same file
+@Joabljr ➜ ~/mockenvironment $ find . -name "*.mp3" -not -path "./mp3_files/*" -exec mv {} mp3_files/ \;
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── mp3_files
+│   ├── 0zOnvO4Y.mp3
+│   ├── AZ0N4aTP.mp3
+│   ├── DQa6FWBX.mp3
+│   ├── Hx3l2Rsk.mp3
+│   ├── NScC6rSw.mp3
+│   ├── cgDxOWmH.mp3
+│   ├── gvhd3JhI.mp3
+│   ├── gxkkx25J.mp3
+│   └── ixwM00WT.mp3
+├── mp4_files
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── U3gWFk02.wav
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── feDFzOGF.csv
+│   │   ├── mp3
+│   │   └── qUEyGRok.txt
+│   ├── order_2
+│   │   ├── J1eMhbNI.wav
+│   │   ├── VQGoOpBQ.sh
+│   │   ├── jqqZWP9D.wav
+│   │   └── ku1f0l9L.wav
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   └── flPYDIqd.mp4
+│   ├── order_4
+│   │   ├── 8shNoAZV.txt
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       └── yNn6WdYl.sh
+├── png_files
+│   ├── 7RJXXr4G.png
+│   ├── 8PX4Tw1l.png
+│   ├── HDnU6JhR.png
+│   ├── L7DkRWfR.png
+│   ├── fcjJ7jCA.png
+│   ├── lH52m6Co.png
+│   ├── ohZFccJB.png
+│   └── vxfcD8Wm.png
+├── products
+│   ├── category_1
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── Gqhs2dfw.txt
+│   │   ├── NMVRahVW.mp4
+│   │   ├── gyGju678.txt
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── HJUpvdY4.html
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── 9w10vyFx.txt
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       ├── nBu8yu7G.txt
+│       └── wqisQVik.json
+└── reports
+
+22 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ cd ~/mockenvironment
+@Joabljr ➜ ~/mockenvironment $ mkdir -p txt_files
+@Joabljr ➜ ~/mockenvironment $ mv qUEyGRok.txt txt_files/
+mv: cannot stat 'qUEyGRok.txt': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ mv subdir/qUEyGRok.txt txt_files/
+mv: cannot stat 'subdir/qUEyGRok.txt': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ find . -name "qUEyGRok.txt"
+./orders/order_1/qUEyGRok.txt
+@Joabljr ➜ ~/mockenvironment $ mv order_1/qUEyGRok.txt txt_files/
+mv: cannot stat 'order_1/qUEyGRok.txt': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ mv orders/order_1/qUEyGRok.txt txt_files/
+@Joabljr ➜ ~/mockenvironment $ ls
+customers  invoices  jpeg_files  logs  marketing  mp3_files  mp4_files  orders  png_files  products  reports  txt_files
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── mp3_files
+│   ├── 0zOnvO4Y.mp3
+│   ├── AZ0N4aTP.mp3
+│   ├── DQa6FWBX.mp3
+│   ├── Hx3l2Rsk.mp3
+│   ├── NScC6rSw.mp3
+│   ├── cgDxOWmH.mp3
+│   ├── gvhd3JhI.mp3
+│   ├── gxkkx25J.mp3
+│   └── ixwM00WT.mp3
+├── mp4_files
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── U3gWFk02.wav
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── feDFzOGF.csv
+│   │   └── mp3
+│   ├── order_2
+│   │   ├── J1eMhbNI.wav
+│   │   ├── VQGoOpBQ.sh
+│   │   ├── jqqZWP9D.wav
+│   │   └── ku1f0l9L.wav
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   └── flPYDIqd.mp4
+│   ├── order_4
+│   │   ├── 8shNoAZV.txt
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       └── yNn6WdYl.sh
+├── png_files
+│   ├── 7RJXXr4G.png
+│   ├── 8PX4Tw1l.png
+│   ├── HDnU6JhR.png
+│   ├── L7DkRWfR.png
+│   ├── fcjJ7jCA.png
+│   ├── lH52m6Co.png
+│   ├── ohZFccJB.png
+│   └── vxfcD8Wm.png
+├── products
+│   ├── category_1
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── Gqhs2dfw.txt
+│   │   ├── NMVRahVW.mp4
+│   │   ├── gyGju678.txt
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── HJUpvdY4.html
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── 9w10vyFx.txt
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       ├── nBu8yu7G.txt
+│       └── wqisQVik.json
+├── reports
+└── txt_files
+    └── qUEyGRok.txt
+
+23 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ mv orders/order_1/8shNoAZV.txt txt_files/
+mv: cannot stat 'orders/order_1/8shNoAZV.txt': No such file or directory
+@Joabljr ➜ ~/mockenvironment $ mv orders/order_4/8shNoAZV.txt txt_files/
+@Joabljr ➜ ~/mockenvironment $ mv products/category_1/Gqhs2dfw.txt txt_files/
+@Joabljr ➜ ~/mockenvironment $ mv products/category_1/gyGju678.txt txt_files/
+@Joabljr ➜ ~/mockenvironment $ mv products/category_5/9w10vyFx.txt txt_files/
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── mp3_files
+│   ├── 0zOnvO4Y.mp3
+│   ├── AZ0N4aTP.mp3
+│   ├── DQa6FWBX.mp3
+│   ├── Hx3l2Rsk.mp3
+│   ├── NScC6rSw.mp3
+│   ├── cgDxOWmH.mp3
+│   ├── gvhd3JhI.mp3
+│   ├── gxkkx25J.mp3
+│   └── ixwM00WT.mp3
+├── mp4_files
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── U3gWFk02.wav
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── feDFzOGF.csv
+│   │   └── mp3
+│   ├── order_2
+│   │   ├── J1eMhbNI.wav
+│   │   ├── VQGoOpBQ.sh
+│   │   ├── jqqZWP9D.wav
+│   │   └── ku1f0l9L.wav
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   └── flPYDIqd.mp4
+│   ├── order_4
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       └── yNn6WdYl.sh
+├── png_files
+│   ├── 7RJXXr4G.png
+│   ├── 8PX4Tw1l.png
+│   ├── HDnU6JhR.png
+│   ├── L7DkRWfR.png
+│   ├── fcjJ7jCA.png
+│   ├── lH52m6Co.png
+│   ├── ohZFccJB.png
+│   └── vxfcD8Wm.png
+├── products
+│   ├── category_1
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── NMVRahVW.mp4
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── HJUpvdY4.html
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       ├── nBu8yu7G.txt
+│       └── wqisQVik.json
+├── reports
+└── txt_files
+    ├── 8shNoAZV.txt
+    ├── 9w10vyFx.txt
+    ├── Gqhs2dfw.txt
+    ├── gyGju678.txt
+    └── qUEyGRok.txt
+
+23 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ mv products/category_5/nBu8yu7G.txt txt_files/
+@Joabljr ➜ ~/mockenvironment $ mkdir -p wav_files
+@Joabljr ➜ ~/mockenvironment $ cd wav_files
+@Joabljr ➜ ~/mockenvironment/wav_files $ find <search_path> <search_criteria> -exec <command> {} \;
+bash: syntax error near unexpected token `<'
+@Joabljr ➜ ~/mockenvironment/wav_files $ tree
+.
+
+0 directories, 0 files
+@Joabljr ➜ ~/mockenvironment/wav_files $ cd ..
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── mp3_files
+│   ├── 0zOnvO4Y.mp3
+│   ├── AZ0N4aTP.mp3
+│   ├── DQa6FWBX.mp3
+│   ├── Hx3l2Rsk.mp3
+│   ├── NScC6rSw.mp3
+│   ├── cgDxOWmH.mp3
+│   ├── gvhd3JhI.mp3
+│   ├── gxkkx25J.mp3
+│   └── ixwM00WT.mp3
+├── mp4_files
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── U3gWFk02.wav
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── feDFzOGF.csv
+│   │   └── mp3
+│   ├── order_2
+│   │   ├── J1eMhbNI.wav
+│   │   ├── VQGoOpBQ.sh
+│   │   ├── jqqZWP9D.wav
+│   │   └── ku1f0l9L.wav
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   └── flPYDIqd.mp4
+│   ├── order_4
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       └── yNn6WdYl.sh
+├── png_files
+│   ├── 7RJXXr4G.png
+│   ├── 8PX4Tw1l.png
+│   ├── HDnU6JhR.png
+│   ├── L7DkRWfR.png
+│   ├── fcjJ7jCA.png
+│   ├── lH52m6Co.png
+│   ├── ohZFccJB.png
+│   └── vxfcD8Wm.png
+├── products
+│   ├── category_1
+│   │   ├── 9UHywaWH.wav
+│   │   ├── EwHL51h4.log
+│   │   ├── NMVRahVW.mp4
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 6iAow9BP.wav
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── STj2DwCV.json
+│   │   ├── Styy777D.wav
+│   │   ├── jKsby1rm.sh
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── HJUpvdY4.html
+│   │   ├── VTASQiUc.wav
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   ├── d2NJAzWv.wav
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── BSnylOMr.wav
+│       ├── BdO2x0en.sh
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       └── wqisQVik.json
+├── reports
+├── txt_files
+│   ├── 8shNoAZV.txt
+│   ├── 9w10vyFx.txt
+│   ├── Gqhs2dfw.txt
+│   ├── gyGju678.txt
+│   ├── nBu8yu7G.txt
+│   └── qUEyGRok.txt
+└── wav_files
+
+24 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ find . -name "*.wav" -exec mv {} wav_files/ \;
+@Joabljr ➜ ~/mockenvironment $ tree
+.
+├── customers
+├── invoices
+├── jpeg_files
+│   ├── 2YxS1T2N.jpg
+│   ├── PZD3dPyp.jpg
+│   └── n3KlXiWG.jpg
+├── logs
+├── marketing
+├── mp3_files
+│   ├── 0zOnvO4Y.mp3
+│   ├── AZ0N4aTP.mp3
+│   ├── DQa6FWBX.mp3
+│   ├── Hx3l2Rsk.mp3
+│   ├── NScC6rSw.mp3
+│   ├── cgDxOWmH.mp3
+│   ├── gvhd3JhI.mp3
+│   ├── gxkkx25J.mp3
+│   └── ixwM00WT.mp3
+├── mp4_files
+├── orders
+│   ├── order_1
+│   │   ├── AMdyLVUb.csv
+│   │   ├── BgguKWLh.docx
+│   │   ├── W4JNgbMr.pdf
+│   │   ├── feDFzOGF.csv
+│   │   └── mp3
+│   ├── order_2
+│   │   └── VQGoOpBQ.sh
+│   ├── order_3
+│   │   ├── 2yKvjaYy.xlsx
+│   │   ├── D025Sonk.pdf
+│   │   └── flPYDIqd.mp4
+│   ├── order_4
+│   │   ├── RVMqXYL2.log
+│   │   ├── UC3OD6qH.html
+│   │   ├── Y5RPQZn5.log
+│   │   ├── o56X4QYc.pdf
+│   │   ├── wCpFBYYN.docx
+│   │   └── wr5ZbRpE.html
+│   └── order_5
+│       ├── 60bl9Thv.csv
+│       ├── NTvqyiB7.pdf
+│       ├── UjYbJpvp.csv
+│       └── yNn6WdYl.sh
+├── png_files
+│   ├── 7RJXXr4G.png
+│   ├── 8PX4Tw1l.png
+│   ├── HDnU6JhR.png
+│   ├── L7DkRWfR.png
+│   ├── fcjJ7jCA.png
+│   ├── lH52m6Co.png
+│   ├── ohZFccJB.png
+│   └── vxfcD8Wm.png
+├── products
+│   ├── category_1
+│   │   ├── EwHL51h4.log
+│   │   ├── NMVRahVW.mp4
+│   │   ├── joWgVoEQ.json
+│   │   ├── ps2UiJmX.log
+│   │   └── q9GGGgEI.html
+│   ├── category_2
+│   │   ├── 21VPF20z.mp4
+│   │   ├── 7EueJ5XE.xlsx
+│   │   ├── STj2DwCV.json
+│   │   ├── jKsby1rm.sh
+│   │   ├── w6eAkgoS.pptx
+│   │   └── zlaJnf63.log
+│   ├── category_3
+│   │   ├── 3jpuvP9S.csv
+│   │   ├── HJUpvdY4.html
+│   │   ├── Y5NYaVNX.pdf
+│   │   └── r5Uw9q24.csv
+│   ├── category_4
+│   │   ├── ItkaPThU.pptx
+│   │   ├── PfANmJlw.docx
+│   │   ├── QGi5anwx.mp4
+│   │   ├── YDCRB1Lq.html
+│   │   └── y96pQg2I.html
+│   └── category_5
+│       ├── BdO2x0en.sh
+│       ├── OyYR61Z3.mp4
+│       ├── b4ZlGli8.html
+│       ├── eljTym8r.mp4
+│       ├── lpuqvasJ.pdf
+│       └── wqisQVik.json
+├── reports
+├── txt_files
+│   ├── 8shNoAZV.txt
+│   ├── 9w10vyFx.txt
+│   ├── Gqhs2dfw.txt
+│   ├── gyGju678.txt
+│   ├── nBu8yu7G.txt
+│   └── qUEyGRok.txt
+└── wav_files
+    ├── 6iAow9BP.wav
+    ├── 9UHywaWH.wav
+    ├── BSnylOMr.wav
+    ├── J1eMhbNI.wav
+    ├── Styy777D.wav
+    ├── U3gWFk02.wav
+    ├── VTASQiUc.wav
+    ├── d2NJAzWv.wav
+    ├── jqqZWP9D.wav
+    └── ku1f0l9L.wav
+
+24 directories, 80 files
+@Joabljr ➜ ~/mockenvironment $ 
