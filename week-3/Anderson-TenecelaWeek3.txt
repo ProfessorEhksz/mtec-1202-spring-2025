@@ -1,0 +1,29 @@
+ 1  ls
+    2  ./random_file_structure.sh
+    3  ls
+    4  nano random_file_structure.sh
+    5  ./random_file_structure.sh
+    6  pwd
+    7  ls
+    8  cd
+    9  cd ~
+   10  cd codespace/mockenviornment
+   11  pwd
+   12  cd mockenvironment
+   13  ls
+   14  ls bookings
+   15  ls
+   16  ls -l
+   17  ls -a
+   18  pwd
+   19  cd invoices
+   20  cd..
+   21  cd.. 
+   22  cd ..
+   23  cd marketing
+   24  cd ..
+   25  ls -R
+   26  cd destinations/destination_5
+   27  pwd
+   28  mkdir Anderson_commandfolder
+   29  history
