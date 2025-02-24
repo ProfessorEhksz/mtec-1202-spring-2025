@@ -1,0 +1,21 @@
+    1  nano random_file_structure.sh
+    2  ls
+    3  chmod +x random_file_structure.sh
+    4  ls
+    5  pwd
+    6  ./random_file_structure.sh
+    7  cd /home/codespace/mockenvironment
+    8  ls
+    9  cd samples
+   10  ls
+   11  ls -l
+   12  ls -a
+   13  pwd
+   14  cd sample_1
+   15  cd ..
+   16  ls
+   17  cd sample_4
+   18  ls
+   19  pwd
+   20  mkdir sample_hot97
+   21  history
