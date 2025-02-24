@@ -1,0 +1,38 @@
+@AD903178 ➜ /workspaces/codespaces-blank $ cd /
+@AD903178 ➜ / $ cd ~
+@AD903178 ➜ ~ $ 
+@AD903178 ➜ ~ $ mkdir lab-1
+@AD903178 ➜ ~ $ cd ~/codespaces
+bash: cd: /home/codespace/codespaces: No such file or directory
+@AD903178 ➜ ~ $ mkdir lab-1
+mkdir: cannot create directory ‘lab-1’: File exists
+@AD903178 ➜ ~ $ cd lab-1
+@AD903178 ➜ ~/lab-1 $ touch file-1.txt
+@AD903178 ➜ ~/lab-1 $ touch .file-1.txt
+@AD903178 ➜ ~/lab-1 $ ls -a
+.  ..  .file-1.txt  file-1.txt
+@AD903178 ➜ ~/lab-1 $ ls
+file-1.txt
+@AD903178 ➜ ~/lab-1 $ mkdir -p pizza{cheese,pepperoni,mushrooms}
+@AD903178 ➜ ~/lab-1 $ cd pizzza/mushrooms
+bash: cd: pizzza/mushrooms: No such file or directory
+@AD903178 ➜ ~/lab-1 $ pwd
+/home/codespace/lab-1
+@AD903178 ➜ ~/lab-1 $ cd /
+@AD903178 ➜ / $ history
+    1  cd /
+    2  cd ~
+    3  mkdir lab-1
+    4  cd ~/codespaces
+    5  mkdir lab-1
+    6  cd lab-1
+    7  touch file-1.txt
+    8  touch .file-1.txt
+    9  ls -a
+   10  ls
+   11  mkdir -p pizza{cheese,pepperoni,mushrooms}
+   12  cd pizzza/mushrooms
+   13  pwd
+   14  cd /
+   15  history
+@AD903178 ➜ / $ 
