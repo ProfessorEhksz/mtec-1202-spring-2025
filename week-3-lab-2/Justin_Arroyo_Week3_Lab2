@@ -1,0 +1,305 @@
+    1  nano  random_file_structure.sh
+    2  ls
+    3  chmod +x random_file_structure.sh
+    4  ls
+    5  ./random_file_structure.sh
+    6  cd
+    7  mockenviroment
+    8  cd workspaces
+    9  ls
+   10  cd mockenviroment
+   11  cd mockenvironment
+   12  ls
+   13  cd clients
+   14  ls
+   15  ls a
+   16  ls -a
+   17  ls -l
+   18  cd ..
+   19  cd contracts
+   20  ls
+   21  ls -a
+   22  cd ..
+   23  cd editedphotos
+   24  ls
+   25  cd .. 
+   26  cd invoices
+   27  ls
+   28  ls -a
+   29  cd 
+   30  cd projects
+   31  cd ..
+   32  cd projects
+   33  ls
+   34  cd codespace
+   35  ls
+   36  cd mockenvironment
+   37  ls
+   38  cd projects
+   39  ls
+   40  cd 
+   41  cd rawphotos
+   42  ls
+   43  mockenvironment
+   44  cd mockenvironment
+   45  ls
+   46  cd rawphotos
+   47  ls
+   48  cd session_1
+   49  ls
+   50  cd .. 
+   51  cd ..
+   52  ls
+   53  mkdir sound
+   54  ls
+   55  mkdir images
+   56  ls
+   57  mkdir misc 
+   58  mkdir directories
+   59  mkdir documents
+   60  ls
+   61  mv contracts directories
+   62  ls
+   63  cd directories
+   64  ls
+   65  cd
+   66  ls
+   67  cd mockenvironment
+   68  ls
+   69  mv clients directories
+   70  ls
+   71  cd editedphotes
+   72  cd editedphotos
+   73  ls
+   74  cd .. 
+   75  ls
+   76  mv editedphotos directories
+   77  ls
+   78  cd invoices
+   79  ls
+   80  mv invoices directories
+   81  ls
+   82  cd projects
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd exports
+   87  ls
+   88  cd .. ls
+   89  cd ..
+   90  mv exports directories
+   91  ls
+   92  cd projects 
+   93  ls
+   94  cd project_1
+   95  ls
+   96  mv -p 7VwujtLw.mp3 CVyuS3uW.mp3 sound
+   97  mv --help
+   98  mv -n 7VwujtLw.mp3  CVyuS3uW.mp3 sound
+   99  mv -n 7VwujtLw.mp3  CVyuS3uW.mp3 projects/mockenvironment/sound
+  100  mv 7VwujtLw.mp3 ../../sound
+  101  cd ..
+  102  ls
+  103  sound
+  104  ls
+  105  cd sound
+  106  ls
+  107  cd .. 
+  108  ls
+  109  cd projects
+  110  ls
+  111  cd project_1
+  112  sl
+  113  ls
+  114  mv V8LAVzDy.xlsx ../../misc
+  115  mv CVyuS3uW.mp3 ../../sound
+  116  ls
+  117  mv -n LQj4hUVF.png  zMad2Ylw.png ../../images
+  118  ls
+  119  cd ..
+  120  ls
+  121  mv project_1 ../directories
+  122  ls
+  123  cd project_2
+  124  ls
+  125  mv -n szJZo43m.json
+  126  ls
+  127  mv E5BVgUQe.docx ../../documents
+  128  ls
+  129  mv -n  xfZzZsse.xlsx 95OkA5gM.xlsx  D2LyIhar.log   ENm7SYn9.html ../../misc
+  130  ls
+  131  mv -n GzhZeG68.mp4  LQk1CB8B.jpg ../../images
+  132  ls
+  133  mv -n DfeRGPy1.wav msFdjfrt.wav ../../sound
+  134  ls
+  135  mv DfeRGPyl.wav ../../sound
+  136  ls
+  137  mv 1gAi7Cbh.mp3 ../../sound
+  138  ls
+  139  mv -n BSmoOMAA.json  VOSUM7qc.log szJZo43m.json ../../misc
+  140  mv bAqjAakf.mp4 ../../images
+  141  cd ..
+  142  ls
+  143  mv project_2 ../../directories
+  144  ls
+  145  cd project_3
+  146  ls
+  147  mv -n 7XuhcVoL.txt  EsZvZE8K.csv  Y011C9Eq.pptx ../../documentaries
+  148  7XuhcVoL.txt  EsZvZE8K.csv  Y011C9Eq.pptx
+  149  mv -n 7XuhcVoL.txt  EsZvZE8K.csv  Y011C9Eq.pptx ../../documents
+  150  ls
+  151  mv ora0KsdH.png ../../images
+  152  mv uTmrL0sh.xlsx ../../misc
+  153  cd ..
+  154  mv project_3 ../../directories
+  155  ls
+  156  project_4
+  157  cd project_4
+  158  ;s
+  159  ls
+  160  mv -n MMAfKpOe.mp3  MW7aAfka.wav ../../sound
+  161  ls
+  162  mv -n I5S9GmnP.pdf  U38qp6IE.txt ../../documents
+  163  ls
+  164  mv pJN6i3Gx.mp3 ../../sound
+  165  mv mdjwf3MG.jpg ../../images
+  166  ls
+  167  mv -n 99SJJklR.xlsx  qCuKJWsm.log  twEaNzuI.sh ../../misc
+  168  cd ..
+  169  ls
+  170  mv project_4 ../../directories
+  171  ls
+  172  cd project_5 
+  173  ls
+  174  mv -n jQL7G9fy.wav  p2IRo9O3.mp3 ../../sound
+  175  ls
+  176  mv QGzr55of.mp3 ../../sound
+  177  ls
+  178  mv -n Mg6BG6VV.csv  a0Vo6Wx4.docx ../../documents
+  179  ls
+  180  mv  wsK5uByC.csv ../../documents
+  181  ls
+  182  mv -n 4EhW91xJ.pptx  7AiEdw0w.pdf ../../documents
+  183  ls
+  184  mv -n IcH3Dutb.xlsx h724e60n.xlsx ../../misc
+  185  ls
+  186  mv -n EQ5w11ot.mp4  gpwCGbip.png ../../images
+  187  ls
+  188  cp ..
+  189  ls
+  190  cd ..
+  191  ls
+  192  mv project_5 ../../directories
+  193  ls
+  194  cd ..
+  195  ls
+  196  mv projects directories
+  197  ls
+  198  cd rawphotos
+  199  ls
+  200  session_1
+  201  cd session_1
+  202  ls
+  203  mv -n Nt6qODuW.png  WpjOMJKd.mp4 tfMGeAwv.png ../../images
+  204  ls
+  205  mv -n EVUK3G9r.csv  ahVrKqBX.html ../../documents
+  206  ls
+  207  mv yREyvL2i.wav ../../sound
+  208  mv v9Wn54p7.xlsx ../../misc
+  209  ls
+  210  cp ..
+  211  cd ..
+  212  ls
+  213  cd session_2
+  214  ls
+  215  mv -n  NyPcbEQY.mp3  SqdWogO6.mp3  ZAzwslXO.mp3 ../../sound
+  216  cd
+  217  ls
+  218  cd mockenvironment
+  219  ls
+  220  cd directories
+  221  ls
+  222  cd ..
+  223  ls
+  224  cd directories
+  225  ls
+  226  mv -n project_3  project_4  project_5 mockenvironment
+  227  mv -n project_3  project_4  project_5 ../mockenvironment
+  228  cd 
+  229  cd mockenvironment
+  230  ls
+  231  mv -n project_3  project_4  project_5 directories
+  232  ls
+  233  cd rawphotos
+  234  ls
+  235  cd session_2
+  236  ls
+  237  cd
+  238  cd mockenvironment
+  239  ls
+  240  cd douments
+  241  cd documents
+  242  ls
+  243  cd ..
+  244  cd misc
+  245  ls
+  246  mv -n twEaNzuI.sh ENm7SYn9.html ../documents
+  247  cd 
+  248  cd mockenvironment
+  249  cd rawphotos
+  250  ls
+  251  cd session_2 
+  252  ls 
+  253  mv -n beE74GAM.sh  mxzq3Aom.sh  pEs8vWYE.sh ../../documents
+  254  ls
+  255  mv -n 53gOjATn.xlsx  rMTk0M29.json  uqHug7BM.json ../../misc
+  256  cd ..
+  257  ls
+  258  cd session_3
+  259  ls 
+  260  mv -nHOYPIYdu.log  iNDkX2QH.log  jrahDmUb.log  x2UaieT6.xlsx ../../misc
+  261  mv -n HOYPIYdu.log  iNDkX2QH.log  jrahDmUb.log  x2UaieT6.xlsx ../../misc
+  262  ls
+  263  mv -n 5JmZOik6.pptx  xtdmj1zM.txt  xz1eromB.txt ../../documents
+  264  cd ..
+  265  ls
+  266  cd session_4
+  267  ls
+  268  mv -n DGch1Lb9.txt  JHLPEh0q.sh  MkhN27tU.csv 52YBoS0o.docx ../../documents
+  269  ls
+  270  mv -n jBujVZkB.jpg W42jALQH.jpg ../../images
+  271  ls
+  272  mv RHdS0YHI.log ../../misc
+  273  ls
+  274  mv -n 9BB4JyXN.wav  Z9O0N4Hj.wav ../../sound
+  275  ls
+  276  cd ...
+  277  cd ..
+  278  ls
+  279  session_5
+  280  cd session_5
+  281  ls 
+  282  mv -n NxqERU8R.txt  XTXhGcJj.log  fW2kEgcw.sh ../../documents
+  283  mv h1eKygVm.png  ../../images
+  284  ls
+  285  mv MlVVtYEB.mp3 ../../sound
+  286  ls
+  287  mv 5h1O3d9u.sh ../../documents
+  288  ls
+  289  mv sV3Jml1t.xlsx ../../misc
+  290  cd ..
+  291  ls
+  292  mv -n session_1  session_2  session_3  session_4  session_5 ../directories
+  293  ls
+  294  cd 
+  295  ls
+  296  cd directories
+  297  ls
+  298  cd 
+  299  ls 
+  300  cd mockenvironment
+  301  ls
+  302  mv rawphotos directories
+  303  ls
+  304  cd 
+  305  history
