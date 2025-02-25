@@ -1,0 +1,33 @@
+   1  ls -a
+   2  mockenvironment
+   3  ..
+   4  .. mockenvironment
+   5  ..
+   6  tree
+   7  history
+
+-
+
+@AmelieBajor ➜ ~ $ ls -a
+.             .bashrc  .config  .hugo     .maven     .oh-my-zsh  .python  .rvmrc          .zshrc       file-2.txt  mockenvironment
+..            .cache   .docker  .jupyter  .minikube  .php        .rbenv   .vscode-remote  AmelieBajor  java        nvm
+.bash_logout  .conda   .dotnet  .local    .nvs       .profile    .ruby    .zprofile       file-1.txt   lab-1
+@AmelieBajor ➜ ~ $ mockenvironment
+bash: mockenvironment: command not found
+@AmelieBajor ➜ ~ $ ..
+bash: ..: command not found
+@AmelieBajor ➜ ~ $ .. mockenvironment
+bash: ..: command not found
+@AmelieBajor ➜ ~ $ ..
+bash: ..: command not found
+@AmelieBajor ➜ ~ $ tree
+.
+├── AmelieBajor
+│   └── Assignment
+│       └── Folder
+├── file-1.txt
+├── file-2.txt
+├── java -> /usr/local/sdkman/candidates/java
+├── lab-1
+├── mockenvironment
+└── nvm -> /usr/local/share/nvm
